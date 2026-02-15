@@ -1,4 +1,4 @@
-# 🚀 Raj Kumar Konka - Professional Portfolio Website
+# Raj Kumar Konka - Professional Portfolio Website
 
 A modern, responsive portfolio website showcasing my work as a Software Developer, AI/ML Engineer, and Data Scientist.
 
@@ -11,7 +11,7 @@ A modern, responsive portfolio website showcasing my work as a Software Develope
 
 Visit my portfolio: **https://rajkonka.github.io/Profile-Application/**
 
-## ✨ Features
+##  Features
 
 - **Modern Design**: Clean, professional UI with smooth animations
 - **Fully Responsive**: Works perfectly on desktop, tablet, and mobile devices
@@ -20,7 +20,7 @@ Visit my portfolio: **https://rajkonka.github.io/Profile-Application/**
 - **Accessibility**: Semantic HTML and ARIA labels for better accessibility
 - **SEO Friendly**: Meta tags and structured data for better search visibility
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Profile-Application/
@@ -33,7 +33,7 @@ Profile-Application/
 └── .gitignore          # Git ignore rules
 ```
 
-## 🎨 Sections
+##  Sections
 
 1. **Hero/Home** - Eye-catching introduction with key stats
 2. **About** - Professional summary and highlights
@@ -49,7 +49,7 @@ Profile-Application/
 - **NTT DATA** - Software Developer
 - **Wipro (StackRoute)** - Data & Software Engineer
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 1. **Intelligent Chatbot with RAG and LLaMA2 on AWS**
    - RAG pipeline with AWS Bedrock
@@ -311,22 +311,11 @@ This project is open source and available under the MIT License.
 - 📱 Phone: +1 (682) 405-3943
 - 📍 Location: Houston, Texas
 
-## 🎯 Next Steps
-
-1. ✅ Portfolio is live
-2. ⬜ Add professional photo
-3. ⬜ Add project screenshots
-4. ⬜ Add resume PDF for download
-5. ⬜ Share on LinkedIn
-6. ⬜ Add to resume
-7. ⬜ Set up Google Analytics (optional)
-8. ⬜ Get custom domain (optional)
 
 ---
 
 **Built with ❤️ by Raj Kumar Konka**
 
-*Last Updated: February 2026*
 
 ---
 
